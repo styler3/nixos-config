@@ -103,6 +103,8 @@
 
   # Set up aliases, etc.
   environment.interactiveShellInit = ''
+    EDITOR=nvim
+    BROWSER=firefox
     alias vi='nvim'
   '';
 
