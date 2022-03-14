@@ -40,10 +40,7 @@
     pandoc
     texlive.combined.scheme-medium
     okular
-    transmission
-    transmission-gtk
     mullvad-vpn
-    newsflash
     clementine
   ];
 
