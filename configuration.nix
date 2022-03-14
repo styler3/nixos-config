@@ -44,6 +44,7 @@
     transmission-gtk
     mullvad-vpn
     newsflash
+    clementine
   ];
 
   # VPN
