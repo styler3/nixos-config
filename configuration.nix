@@ -32,6 +32,7 @@
     firefox
     thunderbird
     git
+    git-bug
     hexchat
     w3m
     screenfetch
@@ -42,6 +43,8 @@
     okular
     mullvad-vpn
     clementine
+    ungoogled-chromium
+    neovide
   ];
 
   # VPN
@@ -99,6 +102,7 @@
     EDITOR=nvim
     BROWSER=firefox
     alias vi='nvim'
+    alias nvi='neovide'
   '';
 
   # This value determines the NixOS release from which the default
